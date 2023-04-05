@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3bf4b3-14db-4708-8a2b-cfc9896d0bdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/quadratic_equation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quadratic_equation/QuadraticEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680662122221</updated>
-      <workItem from="1680662123258" duration="6800000" />
+      <workItem from="1680662123258" duration="8419000" />
     </task>
     <servers />
   </component>
