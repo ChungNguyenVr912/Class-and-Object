@@ -1,7 +1,7 @@
 package quadratic_equation;
 
 public class QuadraticEquation {
-    double a, b, c;
+    private double a, b, c;
 
     public QuadraticEquation() {
     }
