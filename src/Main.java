@@ -1,17 +1,35 @@
+import java.util.Scanner;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+//        Scanner scanner = new Scanner(System.in);
+//        int action;
+//        int hp = 100;
+//        for (; hp > 0; ) {
+//            System.out.println("input dmg");
+//            action = scanner.nextInt();
+//            if (action == 4){
+//                System.out.println("action " + action);
+//                break;
+//            }
+//            if (action == 5){
+//                System.out.println("action " + action);
+//                continue;
+//            }
+//            switch (action) {
+//                case 1 -> hp -= 5;
+//                case 2 -> hp -= 20;
+//                case 3 -> hp -= 50;
+//                default -> System.out.println("No damage");
+//            }
+//
+//            System.out.println("HP " + hp);
+//        }
+//        action = 10;
+//        hp = 50;
+//        System.out.println("game over");
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
-
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
-        }
     }
 }
