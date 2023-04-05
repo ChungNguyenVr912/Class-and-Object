@@ -1,5 +1,6 @@
 package stop_watch;
 
+import java.util.Arrays;
 import java.util.Date;
 
 public class Main {
@@ -21,6 +22,8 @@ public class Main {
                 }
             }
         }
+        System.out.println(Arrays.toString(arr));
+
         stopWatch.stop();
         System.out.println("Sorting time in ms: " + stopWatch.getElapsedTime());
     }
