@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3bf4b3-14db-4708-8a2b-cfc9896d0bdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/stop_watch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stop_watch/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/Date.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2NzLmJCUB7mm3hVePbe4eXQSkDE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,10 +47,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "D:/Codegym/Module-02-java/Class and Object/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.quadratic_equation.Main">
+  <component name="RunManager" selected="Application.stop_watch.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Class and Object" />
@@ -78,10 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stop_watch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stop_watch.Main" />
+      <module name="Class and Object" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stop_watch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.quadratic_equation.Main" />
+        <item itemvalue="Application.stop_watch.Main" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.quadratic_equation.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -94,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680662122221</updated>
-      <workItem from="1680662123258" duration="8419000" />
+      <workItem from="1680662123258" duration="11998000" />
     </task>
     <servers />
   </component>
